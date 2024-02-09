@@ -1,91 +1,62 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there! 👋 I'm AbdulRoheem AbdulLateef Opeyemi
 
-###
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
 
-<p align="left">My name is Abdulroheem Abdullateef Opeyemi and I'm a Software Engineer C# developer such as .Net,Css,HTML.</p>
+## About Me
 
-###
+I'm a goal-oriented .NET software engineer with expertise in developing and managing software projects using C#, ASP.NET, HTML, CSS, and JavaScript. I have a proven track record of delivering robust, scalable, and high-quality software solutions. I'm passionate about creating impactful and innovative solutions that drive growth for companies.
 
-<h2 align="left">About me</h2>
+- 🌱 I’m currently learning Angular and React
+- 💬 Ask me about .NET development, web development, and software architecture
 
-###
+## Professional Experience
 
-<p align="left">✨ Creating bugs since February 2020<br>📚 I'm currently learning new technologies and trends<br>🎯 Goals: To create impactful and innovative software solutions<br>🎲 Fun fact: I enjoy mentoring junior engineers and volunteering to teach coding</p>
+### Software Engineer at SysBeams
 
-###
+- Led the development of an Event Management System and an online E-Pin App using .NET MVC, Web API, and JavaScript.
+- Developed and maintained robust .NET applications resulting in 95% client satisfaction ratings.
+- Led cross-functional project teams, achieving on-time and on-budget project completion with a 98% code coverage rate.
 
-<h2 align="left">I code with</h2>
+### Internship: Software Engineer at Code Learners Hub
 
-###
+- Assisted in the development and maintenance of multiple .NET applications for clients in various industries.
+- Contributed to coding, testing, and deployment of software solutions.
+- Participated in code reviews, contributing to improving software quality.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo"  />
-</div>
+## Education
 
-### 
+- Bachelor of Science in Computer Science  
+  National Open University of Nigeria (Expected Graduation: 2026)
 
-<h2 align="left">Hi 👋! My name is Abdulroheem Abdullateef Opeyemi and I'm a Software Engineer.</h2>
+## Technical Skills
 
-###
+- [.NET Framework](https://dotnet.microsoft.com/): ![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg) C#, ASP.NET, ASP.NET Web API
+- [Web Development](https://developer.mozilla.org/en-US/docs/Web): ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) HTML, ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) CSS, ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) JavaScript, Angular, React
+- [Databases](https://en.wikipedia.org/wiki/Database): ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) SQL Server, ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg) MySQL, Oracle, MongoDB
+- [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing): ![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg) Azure, ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg) AWS
+- [Tools](https://en.wikipedia.org/wiki/Software_tool): ![Visual Studio Logo](https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg) Visual Studio, Git, JIRA, Docker
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Personal Projects
 
-###
+- SwiftEd Software: A .NET application for higher institutions allowing students to vote for their preferred candidates.
+- HR Leave Management Application: A .NET application facilitating online leave requests and processing.
+- Key Performance Indicator: A .NET application indicating employee information based on performance.
+- Students Voting Application: A .NET application for higher institutions enabling student voting.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Certifications and Awards
 
-###
+- C# .NET Programming and Code Design with UML (Foundation), Study Section, 2023
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## Professional Development
 
-###
+- Attend conferences and workshops to learn about new technologies and trends.
+- Enroll in online courses to improve technical and soft skills.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdul-roheem-abdul-lateef-1b5340243">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## Volunteer Work and Affiliations
 
-###
+- Teksite Foundation: Volunteer teaching coding programs like HTML and CSS to kids during camping adventures.
 
-<br clear="both">
+## Connect with Me
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-### 
-
+[LinkedIn](https://www.linkedin.com/in/abdul-roheem-abdul-lateef-1b5340243) | [Facebook](https://web.facebook.com/abdulroheem.abdullateef.3)
