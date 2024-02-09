@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm AbdulRoheem AbdulLateef Opeyemi
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-
 ## About Me
 
 I'm a goal-oriented .NET software engineer with expertise in developing and managing software projects using C#, ASP.NET, HTML, CSS, and JavaScript. I have a proven track record of delivering robust, scalable, and high-quality software solutions. I'm passionate about creating impactful and innovative solutions that drive growth for companies.
