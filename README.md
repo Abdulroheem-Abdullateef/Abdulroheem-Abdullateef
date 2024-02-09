@@ -3,8 +3,6 @@
 ## [LinkedIn](https://www.linkedin.com/in/abdul-roheem-abdul-lateef-1b5340243)
 ## [Facebook](https://web.facebook.com/abdulroheem.abdullateef.3)
 
-## [LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.svg)(https://www.linkedin.com/in/abdul-roheem-abdul-lateef-1b5340243)
-## [Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)(https://web.facebook.com/abdulroheem.abdullateef.3)
 
 ## About Me
 
