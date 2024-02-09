@@ -1,4 +1,6 @@
 # Hi there! 👋 I'm AbdulRoheem AbdulLateef Opeyemi
+[LinkedIn](https://www.linkedin.com/in/abdul-roheem-abdul-lateef-1b5340243)
+[Facebook](https://web.facebook.com/abdulroheem.abdullateef.3)
 
 ## About Me
 
@@ -56,4 +58,3 @@ I'm a goal-oriented .NET software engineer with expertise in developing and mana
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/abdul-roheem-abdul-lateef-1b5340243) | [Facebook](https://web.facebook.com/abdulroheem.abdullateef.3)
