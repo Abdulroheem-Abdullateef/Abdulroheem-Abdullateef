@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm AbdulRoheem AbdulLateef Opeyemi
+# Hi 👋 I'm AbdulRoheem AbdulLateef Opeyemi
 ## Connect with Me
 ## [LinkedIn](https://www.linkedin.com/in/abdul-roheem-abdul-lateef-1b5340243)
 ## [Facebook](https://web.facebook.com/abdulroheem.abdullateef.3)
