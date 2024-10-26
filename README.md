@@ -46,8 +46,8 @@ I'm a goal-oriented .NET software engineer with expertise in developing and mana
 
 ## Certifications and Awards
 
-- C# .NET Programming and Code Design with UML (Foundation), Study Section, 2023
-Microsoft .NET Fundamentals, Great Learning, 2024.
+- C# .NET Programming and Code Design with UML (Foundation), Study Section, 2023.
+- Microsoft .NET Fundamentals, Great Learning, 2024.
 ## Professional Development
 
 - Attend conferences and workshops to learn about new technologies and trends.
