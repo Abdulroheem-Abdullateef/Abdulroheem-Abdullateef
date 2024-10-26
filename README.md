@@ -8,7 +8,6 @@
 
 I'm a goal-oriented .NET software engineer with expertise in developing and managing software projects using C#, ASP.NET, HTML, CSS, and JavaScript. I have a proven track record of delivering robust, scalable, and high-quality software solutions. I'm passionate about creating impactful and innovative solutions that drive growth for companies.
 
-- 🌱 I’m currently learning Angular and React
 - 💬 Ask me about .NET development, web development, and software architecture
 
 ## Professional Experience
@@ -48,7 +47,7 @@ I'm a goal-oriented .NET software engineer with expertise in developing and mana
 ## Certifications and Awards
 
 - C# .NET Programming and Code Design with UML (Foundation), Study Section, 2023
-
+Microsoft .NET Fundamentals, Great Learning, 2024.
 ## Professional Development
 
 - Attend conferences and workshops to learn about new technologies and trends.
